@@ -7,7 +7,7 @@ import boyLookingToBeAcceptedFile from './assets/animations/boy-looking-to-accep
 import cryingBoyAnimationFile_1 from './assets/animations/crying_boy_1.json';
 import cryingBoyAnimationFile_2 from './assets/animations/crying_boy_2.json'
 import doesntMatterAnimationFile from './assets/animations/doesnt_matter_boy.json'
-import acceptAnimationFile from './assets/images/YES.png'
+import acceptAnimationFile from './assets/animations/love_animation.json'
 
 const boyLookingToBeAccepted = {
   loop: true,
